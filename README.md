@@ -1,5 +1,4 @@
-# Using Azure Blob Containers to GET/POST/PUT/DELETE images
-# While using MS SQL for table data storage
+# Using Azure Blob Containers to GET/POST/PUT/DELETE images, with MS SQL for table data
 
 
 
