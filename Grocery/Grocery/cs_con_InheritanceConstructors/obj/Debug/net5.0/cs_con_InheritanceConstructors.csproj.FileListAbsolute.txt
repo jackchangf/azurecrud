@@ -1,0 +1,16 @@
+C:\Users\Chan\Desktop\Grocery\Grocery\cs_con_InheritanceConstructors\bin\Debug\net5.0\cs_con_InheritanceConstructors.exe
+C:\Users\Chan\Desktop\Grocery\Grocery\cs_con_InheritanceConstructors\bin\Debug\net5.0\cs_con_InheritanceConstructors.deps.json
+C:\Users\Chan\Desktop\Grocery\Grocery\cs_con_InheritanceConstructors\bin\Debug\net5.0\cs_con_InheritanceConstructors.runtimeconfig.json
+C:\Users\Chan\Desktop\Grocery\Grocery\cs_con_InheritanceConstructors\bin\Debug\net5.0\cs_con_InheritanceConstructors.runtimeconfig.dev.json
+C:\Users\Chan\Desktop\Grocery\Grocery\cs_con_InheritanceConstructors\bin\Debug\net5.0\cs_con_InheritanceConstructors.dll
+C:\Users\Chan\Desktop\Grocery\Grocery\cs_con_InheritanceConstructors\bin\Debug\net5.0\ref\cs_con_InheritanceConstructors.dll
+C:\Users\Chan\Desktop\Grocery\Grocery\cs_con_InheritanceConstructors\bin\Debug\net5.0\cs_con_InheritanceConstructors.pdb
+C:\Users\Chan\Desktop\Grocery\Grocery\cs_con_InheritanceConstructors\obj\Debug\net5.0\cs_con_InheritanceConstructors.csprojAssemblyReference.cache
+C:\Users\Chan\Desktop\Grocery\Grocery\cs_con_InheritanceConstructors\obj\Debug\net5.0\cs_con_InheritanceConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chan\Desktop\Grocery\Grocery\cs_con_InheritanceConstructors\obj\Debug\net5.0\cs_con_InheritanceConstructors.AssemblyInfoInputs.cache
+C:\Users\Chan\Desktop\Grocery\Grocery\cs_con_InheritanceConstructors\obj\Debug\net5.0\cs_con_InheritanceConstructors.AssemblyInfo.cs
+C:\Users\Chan\Desktop\Grocery\Grocery\cs_con_InheritanceConstructors\obj\Debug\net5.0\cs_con_InheritanceConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Chan\Desktop\Grocery\Grocery\cs_con_InheritanceConstructors\obj\Debug\net5.0\cs_con_InheritanceConstructors.dll
+C:\Users\Chan\Desktop\Grocery\Grocery\cs_con_InheritanceConstructors\obj\Debug\net5.0\ref\cs_con_InheritanceConstructors.dll
+C:\Users\Chan\Desktop\Grocery\Grocery\cs_con_InheritanceConstructors\obj\Debug\net5.0\cs_con_InheritanceConstructors.pdb
+C:\Users\Chan\Desktop\Grocery\Grocery\cs_con_InheritanceConstructors\obj\Debug\net5.0\cs_con_InheritanceConstructors.genruntimeconfig.cache
