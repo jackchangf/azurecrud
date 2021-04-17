@@ -7805,11 +7805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chan\\Desktop\\azurecrud-main\\Grocery\\Grocery\\Grocery.WebApp\\Grocery.WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Chan\\Desktop\\Grocery\\Grocery\\Grocery.WebApp\\Grocery.WebApp.csproj",
       "projectName": "Grocery.WebApp",
-      "projectPath": "C:\\Users\\Chan\\Desktop\\azurecrud-main\\Grocery\\Grocery\\Grocery.WebApp\\Grocery.WebApp.csproj",
+      "projectPath": "C:\\Users\\Chan\\Desktop\\Grocery\\Grocery\\Grocery.WebApp\\Grocery.WebApp.csproj",
       "packagesPath": "C:\\Users\\Chan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chan\\Desktop\\azurecrud-main\\Grocery\\Grocery\\Grocery.WebApp\\obj\\",
+      "outputPath": "C:\\Users\\Chan\\Desktop\\Grocery\\Grocery\\Grocery.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

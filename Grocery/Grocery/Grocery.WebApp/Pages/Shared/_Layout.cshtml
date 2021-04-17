@@ -12,11 +12,11 @@
     <title>@ViewData["Title"] - Grocery.WebApp</title>
 
     <environment include="Development, Staging">
-        <link rel="stylesheet" href ="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     </environment>
     <environment include="Production">
-        <link rel="stylesheet" 
-            href="https://jackchangfstorage.blob.core.windows.net/jackchangfstaticcontent/lib/bootstrap/dist/css/bootstrap.min.css" />
+        <link rel="stylesheet"
+              href="https://jackchangfstorage.blob.core.windows.net/jackchangfstaticcontent/lib/bootstrap/dist/css/bootstrap.min.css" />
     </environment>
 
     @*<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />*@
@@ -24,7 +24,22 @@
           href="~/lib/fontawesome/css/all.min.css" />
     <link rel="stylesheet"
           href="~/lib/fontawesome/css/brands.min.css" />
-    <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+
+    @* add the ref to the manifest for pwa *@
+    <link rel="apple-touch-icon" href="~/imgs/icons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="~/imgs/icons/favicon-16x16.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="~/imgs/icons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="~/imgs/icons/android-icon-192x192.png" />
+    <link rel="icon" type="image/png" sizes="512x512" href="~/imgs/icons/android-icon-512x512.png" />
+    @* ~ refers to wwwroot when is publish, specifically for <link/> tags only *@
+    <link rel="manifest" href="/manifest.json">
+
+    <meta name="msapplication-TileColor" content="#ffe1c4" />
+    <meta name="msapplication-TileImage" content="/imgs/icons/favicon-32x32.png" />
+    <meta name="theme-color" content="#ffe1c4" />
+
+
     @await RenderSectionAsync("HeadScripts", required: false)
 </head>
 <body>
