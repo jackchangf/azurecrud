@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chan\\Desktop\\SGUNITED FULL STACK DEV\\GitTest\\azurecrud\\Grocery\\Grocery\\cs_con_InheritanceConstructors\\cs_con_InheritanceConstructors.csproj",
+      "projectUniqueName": "C:\\Users\\Chan\\Desktop\\Grocery\\Grocery\\cs_con_InheritanceConstructors\\cs_con_InheritanceConstructors.csproj",
       "projectName": "cs_con_InheritanceConstructors",
-      "projectPath": "C:\\Users\\Chan\\Desktop\\SGUNITED FULL STACK DEV\\GitTest\\azurecrud\\Grocery\\Grocery\\cs_con_InheritanceConstructors\\cs_con_InheritanceConstructors.csproj",
+      "projectPath": "C:\\Users\\Chan\\Desktop\\Grocery\\Grocery\\cs_con_InheritanceConstructors\\cs_con_InheritanceConstructors.csproj",
       "packagesPath": "C:\\Users\\Chan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chan\\Desktop\\SGUNITED FULL STACK DEV\\GitTest\\azurecrud\\Grocery\\Grocery\\cs_con_InheritanceConstructors\\obj\\",
+      "outputPath": "C:\\Users\\Chan\\Desktop\\Grocery\\Grocery\\cs_con_InheritanceConstructors\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
