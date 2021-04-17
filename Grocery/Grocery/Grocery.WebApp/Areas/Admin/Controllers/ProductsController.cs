@@ -200,7 +200,6 @@ namespace Grocery.WebApp.Areas.Admin.Controllers
 
             //var azureName = newProduct.ProductID.ToString() + ".jpg"; //this is to force it to be image if never set blobcontent type during uploadasync in helper method above, need to add .jpg in index.cshtml too, in the url path
             var azureName = newProduct.ProductID.ToString();
-            //var azureName = newProduct.ProductID.ToString() + Path.GetExtension(file.FileName); //this is to attach the extension like .jpg
             // Check if file was uploaded, and is not an empty file.
             if (file != null || file.Length > 0)
             {
@@ -216,7 +215,6 @@ namespace Grocery.WebApp.Areas.Admin.Controllers
                 // Upload the image to the Blob Container
                 //string imgBlobUri = await this.fSaveToBlobStorage(file.FileName, filepath);
                 string imgBlobUri = await this.fSaveToBlobStorage(azureName, filepath);
-                
 
                 // Delete the uploaded image file from the temporary folder, as not needed any more.
                 System.IO.File.Delete(filepath);
